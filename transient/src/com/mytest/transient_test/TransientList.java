@@ -21,7 +21,8 @@ public class TransientList {
 		}
 		
 		List list = new ArrayList();
-		System.out.println("test");
+		//System.out.println("test");
+		System.out.println("file");
 		
 		list.add(new Transient());
 		
