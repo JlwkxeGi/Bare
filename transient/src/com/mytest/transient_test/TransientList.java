@@ -20,9 +20,9 @@ public class TransientList {
 			file.createNewFile();
 		}
 		
-		List list = new ArrayList();
-		
-		list.add(new Transient());
+//		List list = new ArrayList();
+//		
+//		list.add(new Transient());
 		
 		Transient[] transients = new Transient[]{new Transient()};
 		
